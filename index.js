@@ -19,9 +19,9 @@ function getQR() {
     return;
   }
 
-  qrImg.src =
-    "https://api.qrserver.com/v1/create-qr-code/?size=230x230&data=" +
-    URL.value;
+  qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=230x230&data=${encodeURIComponent(
+    url
+  )}`;
 
   qrImgContainer.style.display = "block";
 }

@@ -13,6 +13,9 @@ A simple and responsive web app that allows users to generate QR codes from any 
 
 ---
 
+## 🌐 Live Preview
+👉 [Click Here to See It Live]((https://sarthdhakade963.github.io/QR_Code_Generator/)
+
 ## 📸 Demo
 
 ![QR Code Generator Screenshot](screenshot.png)

@@ -9,7 +9,7 @@ A simple and responsive web app that allows users to generate QR codes from any 
 - 🔤 Accepts any text or URL input
 - 🔳 Generates a QR code using a free API
 - 🖼️ Displays the QR code instantly on the page
-- 📱 Fully responsive and mobile-friendly UI
+
 
 ---
 
